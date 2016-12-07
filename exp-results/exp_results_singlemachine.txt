@@ -1,0 +1,8 @@
+fa16-cs425-g01-01.cs.illinois.edu: blueberry.ucs.indiana.edu - - [01/Jun/1995:01:58:08 -0600] "GET /~scottp/freewww.html" 200 4210
+fa16-cs425-g01-01.cs.illinois.edu: blueberry.ucs.indiana.edu - - [01/Jun/1995:03:43:59 -0600] "GET /~scottp/free.html" 200 5759
+fa16-cs425-g01-01.cs.illinois.edu: blueberry.ucs.indiana.edu - - [01/Jun/1995:03:44:00 -0600] "GET /~scottp/fn1.gif" 200 2164
+line count [fa16-cs425-g01-01.cs.illinois.edu]: 3
+line count [fa16-cs425-g01-02.cs.illinois.edu]: 0
+line count [fa16-cs425-g01-03.cs.illinois.edu]: 0
+line count [fa16-cs425-g01-04.cs.illinois.edu]: 0
+Distributed line count: 3

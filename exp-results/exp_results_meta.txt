@@ -1,0 +1,7 @@
+fa16-cs425-g01-02.cs.illinois.edu: gatekeeper2.sciatl.com - - [29/Aug/1995:11:08:06 -0600] "GET /cgi-bin/digger?Value=maynard&mode=all&Server=University+of+Saskatchewan	[duke.usask.ca+63] HTTP/1.0" 200 441
+fa16-cs425-g01-02.cs.illinois.edu: 198.163.96.80 - - [05/Sep/1995:14:46:04 -0600] "GET /cgi-bin/digger?Value=Cindy&mode=nice&Server=University+of+Saskatchewan	[duke.usask.ca+63] HTTP/1.0" 200 677
+line count [fa16-cs425-g01-01.cs.illinois.edu]: 0
+line count [fa16-cs425-g01-02.cs.illinois.edu]: 2
+line count [fa16-cs425-g01-03.cs.illinois.edu]: 0
+line count [fa16-cs425-g01-04.cs.illinois.edu]: 0
+Distributed line count: 2

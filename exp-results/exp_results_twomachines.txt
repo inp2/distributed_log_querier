@@ -1,0 +1,35 @@
+fa16-cs425-g01-02.cs.illinois.edu: slip75_pc.north.nsis.com - - [10/Oct/1995:09:28:16 -0600] "GET /~lowey/Saskatchewan/" 200 1608
+fa16-cs425-g01-02.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:28:30 -0600] "GET /~lowey/encyclopedia/index.html" 200 2460
+fa16-cs425-g01-02.cs.illinois.edu: elmer.oldadm.ubc.ca - - [10/Oct/1995:09:28:30 -0600] "GET /cirpa/program95/registration_95_eng.html HTTP/1.0" 304 0
+fa16-cs425-g01-02.cs.illinois.edu: 199.17.177.77 - - [10/Oct/1995:09:28:33 -0600] "GET /cgi-bin/hytelnet?file=NET000 HTTP/1.0" 200 0
+fa16-cs425-g01-02.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:28:35 -0600] "GET /~lowey/encyclopedia/icons/kevhead.gif" 200 1667
+fa16-cs425-g01-02.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:28:41 -0600] "GET /~lowey/encyclopedia/help.html" 200 2570
+fa16-cs425-g01-02.cs.illinois.edu: 199.17.177.77 - - [10/Oct/1995:09:28:42 -0600] "GET /cgi-bin/hytelnet?file=FRE000 HTTP/1.0" 200 6549
+fa16-cs425-g01-02.cs.illinois.edu: bcfreenet.seflin.lib.fl.us - - [10/Oct/1995:09:28:48 -0600] "GET /~scottp/free.html" 200 22883
+fa16-cs425-g01-02.cs.illinois.edu: duke.usask.ca - - [10/Oct/1995:09:28:48 -0600] "GET / HTTP/1.0" 200 3442
+fa16-cs425-g01-02.cs.illinois.edu: lib446.usask.ca - - [10/Oct/1995:09:28:53 -0600] "GET /usask/courses.html HTTP/1.0" 404 -
+fa16-cs425-g01-02.cs.illinois.edu: inet-gw-0.ey.ca - - [10/Oct/1995:09:28:56 -0600] "GET /cgi-bin/hytelnet?file=SITES1 HTTP/1.0" 200 354
+fa16-cs425-g01-02.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:29:08 -0600] "GET /~lowey/encyclopedia/m/index.html" 200 1898
+fa16-cs425-g01-02.cs.illinois.edu: slip75_pc.north.nsis.com - - [10/Oct/1995:09:29:10 -0600] "GET /~lowey/Saskatchewan/icons/flag.gif" 200 227
+fa16-cs425-g01-03.cs.illinois.edu: slip75_pc.north.nsis.com - - [10/Oct/1995:09:29:10 -0600] "GET /~lowey/Saskatchewan/icons/letter.gif" 200 149
+fa16-cs425-g01-03.cs.illinois.edu: slip75_pc.north.nsis.com - - [10/Oct/1995:09:29:13 -0600] "GET /~lowey/Saskatchewan/people/index.html" 200 1342
+fa16-cs425-g01-03.cs.illinois.edu: www-e1e.gnn.com - - [10/Oct/1995:09:29:21 -0600] "GET /~scottp/free.html" 200 22883
+fa16-cs425-g01-03.cs.illinois.edu: lucy.bsn.usf.edu - - [10/Oct/1995:09:29:21 -0600] "GET /cgi-bin/hytelnet HTTP/1.0" 200 1524
+fa16-cs425-g01-03.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:29:22 -0600] "GET /~lowey/encyclopedia/m/maps.html" 200 1426
+fa16-cs425-g01-03.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:29:23 -0600] "GET /~lowey/encyclopedia/icons/book.gif" 200 242
+fa16-cs425-g01-03.cs.illinois.edu: walleye.usask.ca - - [10/Oct/1995:09:29:23 -0600] "GET / HTTP/1.0" 200 3442
+fa16-cs425-g01-03.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:29:23 -0600] "GET /~lowey/encyclopedia/icons/index.gif" 200 172
+fa16-cs425-g01-03.cs.illinois.edu: elmer.oldadm.ubc.ca - - [10/Oct/1995:09:29:24 -0600] "GET /cirpa/program95/election_eng.html HTTP/1.0" 200 4008
+fa16-cs425-g01-03.cs.illinois.edu: mkna205.colorado.edu - - [10/Oct/1995:09:29:27 -0600] "GET /~lowey/encyclopedia/icons/bookshelf.gif" 200 214
+fa16-cs425-g01-03.cs.illinois.edu: walleye.usask.ca - - [10/Oct/1995:09:29:29 -0600] "GET /images/logo.gif HTTP/1.0" 200 0
+fa16-cs425-g01-03.cs.illinois.edu: ag5965.usask.ca - - [10/Oct/1995:09:29:40 -0600] "GET / HTTP/1.0" 200 3442
+fa16-cs425-g01-03.cs.illinois.edu: duke.usask.ca - - [10/Oct/1995:09:29:41 -0600] "GET /about_lynx/www_start.html HTTP/1.0" 200 1991
+fa16-cs425-g01-03.cs.illinois.edu: pm-22.qbc.clic.net - - [10/Oct/1995:09:29:42 -0600] "GET /cgi-bin/hytelnet HTTP/1.0" 200 1524
+fa16-cs425-g01-03.cs.illinois.edu: inet-gw-0.ey.ca - - [10/Oct/1995:09:29:44 -0600] "GET /cgi-bin/hytelnet?file=SITES1A HTTP/1.0" 200 554
+fa16-cs425-g01-03.cs.illinois.edu: www-e1e.gnn.com - - [10/Oct/1995:09:29:48 -0600] "GET /~scottp/fn1.gif" 200 2164
+fa16-cs425-g01-03.cs.illinois.edu: c0721.usask.ca - - [10/Oct/1995:09:29:59 -0600] "GET / HTTP/1.0" 200 3442
+line count [fa16-cs425-g01-01.cs.illinois.edu]: 0
+line count [fa16-cs425-g01-02.cs.illinois.edu]: 13
+line count [fa16-cs425-g01-03.cs.illinois.edu]: 17
+line count [fa16-cs425-g01-04.cs.illinois.edu]: 0
+Distributed line count: 30

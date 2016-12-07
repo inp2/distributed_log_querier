@@ -1,0 +1,22 @@
+fa16-cs425-g01-04.cs.illinois.edu: phx-ip-135.netzone.com - - [31/Dec/1995:23:16:00 -0600] "GET /anatomy/pictures/smoligo.GIF HTTP/1.0" 200 77860
+fa16-cs425-g01-04.cs.illinois.edu: sask.usask.ca - - [31/Dec/1995:23:16:16 -0600] "GET / HTTP/1.0" 200 3856
+fa16-cs425-g01-04.cs.illinois.edu: www-e4.proxy.aol.com - - [31/Dec/1995:23:16:20 -0600] "GET /~ladd/cdn_ratite_org.html" 200 9225
+fa16-cs425-g01-04.cs.illinois.edu: broadway.sfn.saskatoon.sk.ca - - [31/Dec/1995:23:16:24 -0600] "GET / HTTP/1.0" 200 3890
+fa16-cs425-g01-04.cs.illinois.edu: www-e4.proxy.aol.com - - [31/Dec/1995:23:16:29 -0600] "GET /~ladd/images/go_top_b.gif" 200 268
+fa16-cs425-g01-04.cs.illinois.edu: bos1d.delphi.com - - [31/Dec/1995:23:16:35 -0600] "GET /cgi-bin/hytelnet HTTP/1.0" 302 -
+fa16-cs425-g01-04.cs.illinois.edu: broadway.sfn.saskatoon.sk.ca - - [31/Dec/1995:23:16:46 -0600] "GET /search.html HTTP/1.0" 200 1838
+fa16-cs425-g01-01.cs.illinois.edu: efn.org - - [31/Jul/1995:23:16:00 -0600] "GET /~scottp/freetel.html" 200 5861
+fa16-cs425-g01-01.cs.illinois.edu: oncomdis.on.ca - - [31/Jul/1995:23:16:56 -0600] "GET /~ladd/" 200 1301
+fa16-cs425-g01-02.cs.illinois.edu: 192.220.223.28 - - [31/Aug/1995:23:16:51 -0600] "GET / HTTP/1.0" 200 0
+fa16-cs425-g01-02.cs.illinois.edu: 199.0.13.15 - - [31/Aug/1995:23:16:51 -0600] "GET / HTTP/1.0" 200 3434
+fa16-cs425-g01-02.cs.illinois.edu: 199.0.13.15 - - [31/Aug/1995:23:16:57 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+fa16-cs425-g01-02.cs.illinois.edu: gn2.getnet.com - - [31/Aug/1995:23:16:57 -0600] "GET / HTTP/1.0" 200 3434
+fa16-cs425-g01-03.cs.illinois.edu: 142.165.5.250 - - [31/Oct/1995:23:16:21 -0600] "GET /dcs/courses/cai/index.html HTTP/1.0" 200 3330
+fa16-cs425-g01-03.cs.illinois.edu: 142.165.5.250 - - [31/Oct/1995:23:16:32 -0600] "GET /dcs/courses/cai/index.html HTTP/1.0" 200 3330
+fa16-cs425-g01-03.cs.illinois.edu: skul15.usask.ca - - [31/Oct/1995:23:16:45 -0600] "GET / HTTP/1.0" 200 3442
+fa16-cs425-g01-03.cs.illinois.edu: skul15.usask.ca - - [31/Oct/1995:23:16:46 -0600] "GET /images/logo.gif HTTP/1.0" 200 2273
+line count [fa16-cs425-g01-01.cs.illinois.edu]: 2
+line count [fa16-cs425-g01-02.cs.illinois.edu]: 4
+line count [fa16-cs425-g01-03.cs.illinois.edu]: 4
+line count [fa16-cs425-g01-04.cs.illinois.edu]: 7
+Distributed line count: 17

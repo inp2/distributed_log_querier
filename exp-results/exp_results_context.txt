@@ -1,0 +1,17 @@
+fa16-cs425-g01-01.cs.illinois.edu: gemini.ci.uc.pt - - [01/Jun/1995:01:42:53 -0600] "GET /~macphed/finite/fe_resources/node1.html" 200 9651
+fa16-cs425-g01-01.cs.illinois.edu: dhvx20.csudh.edu - - [01/Jun/1995:01:51:02 -0600] "GET /~lowey/" 200 1116
+fa16-cs425-g01-01.cs.illinois.edu: blueberry.ucs.indiana.edu - - [01/Jun/1995:01:58:08 -0600] "GET /~scottp/freewww.html" 200 4210
+fa16-cs425-g01-01.cs.illinois.edu: broadway.sfn.saskatoon.sk.ca - - [01/Jun/1995:02:04:11 -0600] "GET /~card/MoRPHeuS.html" 200 6692
+fa16-cs425-g01-01.cs.illinois.edu: fbirchpc.ea.com - - [01/Jun/1995:02:06:35 -0600] "GET /~maton/intro.html" 200 16279
+fa16-cs425-g01-01.cs.illinois.edu: --
+fa16-cs425-g01-01.cs.illinois.edu: info.tuwien.ac.at - - [01/Jun/1995:03:41:10 -0600] "GET /~macphed/finite/fe_resources/node1.html" 200 9651
+fa16-cs425-g01-01.cs.illinois.edu: anumsun6.univ-st-etienne.fr - - [01/Jun/1995:03:43:48 -0600] "GET /~macphed/finite/fe_resources/node52.html" 200 1698
+fa16-cs425-g01-01.cs.illinois.edu: blueberry.ucs.indiana.edu - - [01/Jun/1995:03:43:59 -0600] "GET /~scottp/free.html" 200 5759
+fa16-cs425-g01-01.cs.illinois.edu: blueberry.ucs.indiana.edu - - [01/Jun/1995:03:44:00 -0600] "GET /~scottp/fn1.gif" 200 2164
+fa16-cs425-g01-01.cs.illinois.edu: anumsun6.univ-st-etienne.fr - - [01/Jun/1995:03:44:06 -0600] "GET /~macphed/finite/fe_resources/node51.html" 200 1502
+fa16-cs425-g01-01.cs.illinois.edu: anumsun6.univ-st-etienne.fr - - [01/Jun/1995:03:44:42 -0600] "GET /~macphed/finite/fe_resources/node52.html" 200 1698
+line count [fa16-cs425-g01-01.cs.illinois.edu]: 12
+line count [fa16-cs425-g01-02.cs.illinois.edu]: 0
+line count [fa16-cs425-g01-03.cs.illinois.edu]: 0
+line count [fa16-cs425-g01-04.cs.illinois.edu]: 0
+Distributed line count: 12

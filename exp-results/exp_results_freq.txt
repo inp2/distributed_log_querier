@@ -1,0 +1,9 @@
+fa16-cs425-g01-01.cs.illinois.edu: 50
+fa16-cs425-g01-02.cs.illinois.edu: 620
+fa16-cs425-g01-03.cs.illinois.edu: 1134
+fa16-cs425-g01-04.cs.illinois.edu: 2540
+line count [fa16-cs425-g01-01.cs.illinois.edu]: 1
+line count [fa16-cs425-g01-02.cs.illinois.edu]: 1
+line count [fa16-cs425-g01-03.cs.illinois.edu]: 1
+line count [fa16-cs425-g01-04.cs.illinois.edu]: 1
+Distributed line count: 4
